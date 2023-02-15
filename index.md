@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
-# ClassLink \n
+# ClassLink
+
 __Links for Class, duh__
 
 
