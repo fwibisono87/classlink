@@ -23,6 +23,7 @@ __Links for Class, duh__
 
 ## Adprog
 * [SCELE Adprog](https://scele.cs.ui.ac.id/course/view.php?id=3590)
+* [Zoom Adprog](https://scele.cs.ui.ac.id/mod/zoom/view.php?id=135613)
 
 ## LAW
 * [SCELE LAW](https://scele.cs.ui.ac.id/course/view.php?id=3547)
